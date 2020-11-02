@@ -8,7 +8,7 @@ export default function Home() {
       <Link to="about">About</Link>
       <Header title="Home" />
       <p>What a world.</p>
-      <img src="https://source.unsplash.com/random/400x200"></img>
+      <img src="https://source.unsplash.com/random/400x200" alt=""></img>
     </div>
   )
 }

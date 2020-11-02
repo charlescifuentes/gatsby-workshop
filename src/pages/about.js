@@ -2,7 +2,7 @@ import React from "React"
 import { Link } from "gatsby"
 import Header from "../components/header"
 
-export default About => {
+export default function About() {
     return (
         <div style={{ color: `teal` }}>
             <Link to="/">Home</Link>
